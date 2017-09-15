@@ -4,6 +4,6 @@ Integrantes: Gabriel Jara, Daniel San Martín
 
 Profesores: Carlos Valle
 
-* Tarea 1: -
+* Tarea 1: Metodos Lineales para Regresión
 * Tarea 2: -
 * Tarea 3: -
