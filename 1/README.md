@@ -1,7 +1,7 @@
 # INF-578 Máquinas de Aprendizaje Computacional
 ## Tareas - Métodos Lineales para Regresión
 
-Profesores: Carlos Valle.
+Profesor: Carlos Valle.
 Ayudante: Pablo Ibarra.
 
 Integrantes:
