@@ -2,6 +2,7 @@
 ## Tareas - Métodos Lineales para Regresión
 
 Profesor: Carlos Valle.
+
 Ayudante: Pablo Ibarra.
 
 Integrantes:
