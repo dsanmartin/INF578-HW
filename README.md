@@ -8,4 +8,4 @@ Ayudante: Pablo Ibarra
 
 * Tarea 1: Metodos Lineales para Regresión
 * Tarea 2: Metodos Lineales para Clasificación
-* Tarea 3: -
+* Tarea 3: Métodos No-Lineales
